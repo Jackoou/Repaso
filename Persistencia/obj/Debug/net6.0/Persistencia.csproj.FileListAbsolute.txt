@@ -1,0 +1,17 @@
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\bin\Debug\net6.0\Persistencia.runtimeconfig.json
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\bin\Debug\net6.0\Persistencia.dll
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\bin\Debug\net6.0\Dominio.dll
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\bin\Debug\net6.0\Dominio.pdb
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\obj\Debug\net6.0\Persistencia.dll
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\obj\Debug\net6.0\Persistencia.genruntimeconfig.cache
+D:\TrabajosPropios\C#\HospitalizacionV2\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll

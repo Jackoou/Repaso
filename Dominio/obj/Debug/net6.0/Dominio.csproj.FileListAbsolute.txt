@@ -1,0 +1,12 @@
+D:\TrabajosPropios\C#\HospitalizacionV2\Dominio\bin\Debug\net6.0\Dominio.deps.json
+D:\TrabajosPropios\C#\HospitalizacionV2\Dominio\bin\Debug\net6.0\Dominio.dll
+D:\TrabajosPropios\C#\HospitalizacionV2\Dominio\bin\Debug\net6.0\Dominio.pdb
+D:\TrabajosPropios\C#\HospitalizacionV2\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+D:\TrabajosPropios\C#\HospitalizacionV2\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrabajosPropios\C#\HospitalizacionV2\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+D:\TrabajosPropios\C#\HospitalizacionV2\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+D:\TrabajosPropios\C#\HospitalizacionV2\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+D:\TrabajosPropios\C#\HospitalizacionV2\Dominio\obj\Debug\net6.0\Dominio.dll
+D:\TrabajosPropios\C#\HospitalizacionV2\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+D:\TrabajosPropios\C#\HospitalizacionV2\Dominio\obj\Debug\net6.0\Dominio.pdb
+D:\TrabajosPropios\C#\HospitalizacionV2\Dominio\obj\Debug\net6.0\ref\Dominio.dll
